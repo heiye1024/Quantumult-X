@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,iqiyi.com,HKMTMedia
 # > bilibili
 DOMAIN-SUFFIX,bilibili.com,HKMTMedia
 DOMAIN,upos-hz-mirrorakam.akamaized.net,HKMTMedia
+# > TVB 
+DOMAIN-SUFFIX,tvb.com,HKMTMedia
